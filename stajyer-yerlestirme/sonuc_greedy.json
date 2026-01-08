@@ -1,0 +1,1042 @@
+[
+    {
+        "ogrenci_id": 1042,
+        "isim": "Barış Doğan",
+        "gpa": 3.99,
+        "yerlestigi_firma": "Virgasol Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1086,
+        "isim": "Barış Kılıç",
+        "gpa": 3.99,
+        "yerlestigi_firma": "HepsiBurada",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1063,
+        "isim": "Emine Şeker",
+        "gpa": 3.94,
+        "yerlestigi_firma": "Getir",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1031,
+        "isim": "Serkan Baş",
+        "gpa": 3.93,
+        "yerlestigi_firma": "BEYÇELİK",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1049,
+        "isim": "Berk Gül",
+        "gpa": 3.93,
+        "yerlestigi_firma": "PENTECH Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1108,
+        "isim": "Özlem Erdoğan",
+        "gpa": 3.85,
+        "yerlestigi_firma": "Datayaz Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1018,
+        "isim": "Özlem Karataş",
+        "gpa": 3.83,
+        "yerlestigi_firma": "TOFAŞ",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1057,
+        "isim": "Kağan Sönmez",
+        "gpa": 3.78,
+        "yerlestigi_firma": "GÖRSENTAM",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1060,
+        "isim": "Ayşe Polat",
+        "gpa": 3.77,
+        "yerlestigi_firma": "Harput Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1120,
+        "isim": "Ali Parlak",
+        "gpa": 3.74,
+        "yerlestigi_firma": "ORTEM Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1011,
+        "isim": "Ramazan Arslan",
+        "gpa": 3.72,
+        "yerlestigi_firma": "Skyfood Gıda",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1110,
+        "isim": "Ahmet Baş",
+        "gpa": 3.72,
+        "yerlestigi_firma": "TOFAŞ",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1085,
+        "isim": "İsmail Ateş",
+        "gpa": 3.71,
+        "yerlestigi_firma": "HepsiBurada",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1066,
+        "isim": "Ramazan Uysal",
+        "gpa": 3.68,
+        "yerlestigi_firma": "CITS Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1012,
+        "isim": "Ezgi Kara",
+        "gpa": 3.65,
+        "yerlestigi_firma": "Getir",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1072,
+        "isim": "Hüseyin Yüksel",
+        "gpa": 3.64,
+        "yerlestigi_firma": "BEYÇELİK",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1041,
+        "isim": "Buğra Çalışkan",
+        "gpa": 3.63,
+        "yerlestigi_firma": "Doğuş",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1097,
+        "isim": "Şerife Avcı",
+        "gpa": 3.61,
+        "yerlestigi_firma": "Dista Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1075,
+        "isim": "Hatice Turan",
+        "gpa": 3.56,
+        "yerlestigi_firma": "Sorsware Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1117,
+        "isim": "Merve Demir",
+        "gpa": 3.56,
+        "yerlestigi_firma": "İnvio Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1043,
+        "isim": "Yusuf Yüksel",
+        "gpa": 3.54,
+        "yerlestigi_firma": "BİLGE Teknoloji",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1030,
+        "isim": "Mustafa Kaplan",
+        "gpa": 3.52,
+        "yerlestigi_firma": "Virgasol Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1059,
+        "isim": "Pelin Türk",
+        "gpa": 3.52,
+        "yerlestigi_firma": "Trendyol",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1074,
+        "isim": "Hülya Uslu",
+        "gpa": 3.51,
+        "yerlestigi_firma": "İnvio Bilişim",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1129,
+        "isim": "Gökhan Yıldız",
+        "gpa": 3.5,
+        "yerlestigi_firma": "NESTLE",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1033,
+        "isim": "Tolga Türk",
+        "gpa": 3.49,
+        "yerlestigi_firma": "ORTEM Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1038,
+        "isim": "Ali Yıldız",
+        "gpa": 3.48,
+        "yerlestigi_firma": "Datayaz Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1028,
+        "isim": "Batuhan Köse",
+        "gpa": 3.47,
+        "yerlestigi_firma": "Şahince Otomotiv",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1095,
+        "isim": "Simge Özçelik",
+        "gpa": 3.46,
+        "yerlestigi_firma": "Wiome Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1121,
+        "isim": "Berk Coşkun",
+        "gpa": 3.44,
+        "yerlestigi_firma": "PENTECH Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1047,
+        "isim": "Mert Çakmak",
+        "gpa": 3.41,
+        "yerlestigi_firma": "ORTEM Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1055,
+        "isim": "Ayşe Karataş",
+        "gpa": 3.38,
+        "yerlestigi_firma": "Şahince Otomotiv",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1071,
+        "isim": "Emine Şimşek",
+        "gpa": 3.34,
+        "yerlestigi_firma": "EMKO Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1096,
+        "isim": "Bora Uslu",
+        "gpa": 3.34,
+        "yerlestigi_firma": "GÖRSENTAM",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1124,
+        "isim": "Berk Ceylan",
+        "gpa": 3.32,
+        "yerlestigi_firma": "NESTLE",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1112,
+        "isim": "Özlem Avcı",
+        "gpa": 3.28,
+        "yerlestigi_firma": "Kentkart Teknoloji",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1115,
+        "isim": "Havva Toprak",
+        "gpa": 3.26,
+        "yerlestigi_firma": "Teracity Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1046,
+        "isim": "Berkay Aktaş",
+        "gpa": 3.25,
+        "yerlestigi_firma": "Kentkart Teknoloji",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1058,
+        "isim": "Ayşe Çakır",
+        "gpa": 3.24,
+        "yerlestigi_firma": "Wiome Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1084,
+        "isim": "Ali Şimşek",
+        "gpa": 3.24,
+        "yerlestigi_firma": "Virgasol Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1035,
+        "isim": "Buğra Yıldırım",
+        "gpa": 3.19,
+        "yerlestigi_firma": "Rabek Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1039,
+        "isim": "Serkan Kocaman",
+        "gpa": 3.18,
+        "yerlestigi_firma": "GÖRSENTAM",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1040,
+        "isim": "Havva Aktaş",
+        "gpa": 3.18,
+        "yerlestigi_firma": "Kentkart Teknoloji",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1003,
+        "isim": "Efe Korkut",
+        "gpa": 3.17,
+        "yerlestigi_firma": "Rabek Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1109,
+        "isim": "Mustafa Yaman",
+        "gpa": 3.17,
+        "yerlestigi_firma": "MOBGE Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1079,
+        "isim": "Bora Yavuz",
+        "gpa": 3.16,
+        "yerlestigi_firma": "Diniz Donanım",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1026,
+        "isim": "Berkay Özçelik",
+        "gpa": 3.14,
+        "yerlestigi_firma": "Harput Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1001,
+        "isim": "Pelin Özdemir",
+        "gpa": 3.11,
+        "yerlestigi_firma": "Rudolf Duraner",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1099,
+        "isim": "Tolga Avcı",
+        "gpa": 3.11,
+        "yerlestigi_firma": "Güncel Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1106,
+        "isim": "Havva Gedik",
+        "gpa": 3.11,
+        "yerlestigi_firma": "ECS Elektrik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1014,
+        "isim": "Berk Korkmaz",
+        "gpa": 3.1,
+        "yerlestigi_firma": "BODO",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1054,
+        "isim": "Hülya Yüksel",
+        "gpa": 3.06,
+        "yerlestigi_firma": "Ottomotive Mühendislik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1082,
+        "isim": "Buğra Bilgin",
+        "gpa": 3.05,
+        "yerlestigi_firma": "Harput Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1002,
+        "isim": "Berkay Yıldız",
+        "gpa": 3.02,
+        "yerlestigi_firma": "CITS Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1050,
+        "isim": "Burak Polat",
+        "gpa": 3.0,
+        "yerlestigi_firma": "MOBGE Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1094,
+        "isim": "Salih Uslu",
+        "gpa": 2.92,
+        "yerlestigi_firma": "PENTECH Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1101,
+        "isim": "Ramazan Korkmaz",
+        "gpa": 2.92,
+        "yerlestigi_firma": "İbraş Kauçuk",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1073,
+        "isim": "Emine Baş",
+        "gpa": 2.9,
+        "yerlestigi_firma": "Sorsware Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1104,
+        "isim": "Hasan Gedik",
+        "gpa": 2.9,
+        "yerlestigi_firma": "Wiome Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1098,
+        "isim": "Arda Tezel",
+        "gpa": 2.85,
+        "yerlestigi_firma": "Virgasol Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1102,
+        "isim": "Damla Ünal",
+        "gpa": 2.83,
+        "yerlestigi_firma": "Trendyol",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1122,
+        "isim": "Hakan Taş",
+        "gpa": 2.8,
+        "yerlestigi_firma": "Teracity Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1065,
+        "isim": "Hacer Kılıç",
+        "gpa": 2.79,
+        "yerlestigi_firma": "EXİM TEKSTİL",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1123,
+        "isim": "Emine Aslan",
+        "gpa": 2.77,
+        "yerlestigi_firma": "Rabek Tekstil",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1053,
+        "isim": "Alp Yalçın",
+        "gpa": 2.73,
+        "yerlestigi_firma": "MOBGE Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1100,
+        "isim": "Kemal Şahin",
+        "gpa": 2.72,
+        "yerlestigi_firma": "Nette",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1051,
+        "isim": "Gökhan Keskin",
+        "gpa": 2.71,
+        "yerlestigi_firma": "Nette",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1061,
+        "isim": "Erkan Mutlu",
+        "gpa": 2.69,
+        "yerlestigi_firma": "İnvio Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1105,
+        "isim": "Halil Bulut",
+        "gpa": 2.68,
+        "yerlestigi_firma": "Nette",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1126,
+        "isim": "Buğra Avcı",
+        "gpa": 2.67,
+        "yerlestigi_firma": "Skyfood Gıda",
+        "tercih_sirasi": 3,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1052,
+        "isim": "Serkan Korkmaz",
+        "gpa": 2.65,
+        "yerlestigi_firma": "Doğuş",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1081,
+        "isim": "Erkan Aktaş",
+        "gpa": 2.64,
+        "yerlestigi_firma": "Wiome Elektronik",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1009,
+        "isim": "Hatice Aktaş",
+        "gpa": 2.61,
+        "yerlestigi_firma": "Dista Yazılım",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1048,
+        "isim": "Alper Uysal",
+        "gpa": 2.6,
+        "yerlestigi_firma": "Rudolf Duraner",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1005,
+        "isim": "Hülya Uçar",
+        "gpa": 2.59,
+        "yerlestigi_firma": "Rudolf Duraner",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1125,
+        "isim": "Deniz Arslan",
+        "gpa": 2.58,
+        "yerlestigi_firma": "Eruslu Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1127,
+        "isim": "Şerife Duran",
+        "gpa": 2.57,
+        "yerlestigi_firma": "Sorsware Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1010,
+        "isim": "Fatma Aydın",
+        "gpa": 2.55,
+        "yerlestigi_firma": "Şahince Otomotiv",
+        "tercih_sirasi": 4,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1069,
+        "isim": "Zeliha Bilgin",
+        "gpa": 2.54,
+        "yerlestigi_firma": "Virgasol Bilişim",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1091,
+        "isim": "Hüseyin Baş",
+        "gpa": 2.51,
+        "yerlestigi_firma": "Sorsware Bilişim",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1080,
+        "isim": "Mustafa Mutlu",
+        "gpa": 2.48,
+        "yerlestigi_firma": "Wiome Elektronik",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1022,
+        "isim": "Fatma Uysal",
+        "gpa": 2.44,
+        "yerlestigi_firma": "Skyfood Gıda",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1015,
+        "isim": "Berkay Korkmaz",
+        "gpa": 2.43,
+        "yerlestigi_firma": "ADASTEC",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1037,
+        "isim": "Duygu Bayram",
+        "gpa": 2.42,
+        "yerlestigi_firma": "Diniz Donanım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1114,
+        "isim": "Salih Köse",
+        "gpa": 2.42,
+        "yerlestigi_firma": "Şahince Otomotiv",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1103,
+        "isim": "Ramazan Güneş",
+        "gpa": 2.4,
+        "yerlestigi_firma": "ECS Elektrik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1006,
+        "isim": "Abdullah Taş",
+        "gpa": 2.39,
+        "yerlestigi_firma": "ADASTEC",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1077,
+        "isim": "Göktuğ Bulut",
+        "gpa": 2.39,
+        "yerlestigi_firma": "Güncel Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1027,
+        "isim": "Abdullah Kılıç",
+        "gpa": 2.38,
+        "yerlestigi_firma": "Rabek Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1023,
+        "isim": "Ahmet Esen",
+        "gpa": 2.3,
+        "yerlestigi_firma": "EMKO Elektronik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1068,
+        "isim": "Burak Karataş",
+        "gpa": 2.29,
+        "yerlestigi_firma": "Rudolf Duraner",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1044,
+        "isim": "Tolga Şahin",
+        "gpa": 2.24,
+        "yerlestigi_firma": "Güncel Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1087,
+        "isim": "Melis Şimşek",
+        "gpa": 2.22,
+        "yerlestigi_firma": "ADASTEC",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1008,
+        "isim": "Koray Yıldız",
+        "gpa": 2.2,
+        "yerlestigi_firma": "Sorsware Bilişim",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1032,
+        "isim": "Sultan Köse",
+        "gpa": 2.2,
+        "yerlestigi_firma": "Şahince Otomotiv",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1092,
+        "isim": "Buğra Çakmak",
+        "gpa": 2.18,
+        "yerlestigi_firma": "Ottomotive Mühendislik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1024,
+        "isim": "Hülya Kılıç",
+        "gpa": 2.17,
+        "yerlestigi_firma": "Rabek Tekstil",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1067,
+        "isim": "Ayşe Güneş",
+        "gpa": 2.1,
+        "yerlestigi_firma": "Teracity Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1119,
+        "isim": "Umut Bilgin",
+        "gpa": 2.07,
+        "yerlestigi_firma": "Rudolf Duraner",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1078,
+        "isim": "Bora Türk",
+        "gpa": 2.0,
+        "yerlestigi_firma": "Ottomotive Mühendislik",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1093,
+        "isim": "Sultan Çam",
+        "gpa": 1.98,
+        "yerlestigi_firma": "Skyfood Gıda",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1064,
+        "isim": "Mert Şahin",
+        "gpa": 1.97,
+        "yerlestigi_firma": "Eruslu Tekstil",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1076,
+        "isim": "İsmail Çalışkan",
+        "gpa": 1.97,
+        "yerlestigi_firma": "ECS Elektrik",
+        "tercih_sirasi": 3,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1017,
+        "isim": "Ramazan Tekin",
+        "gpa": 1.95,
+        "yerlestigi_firma": "Dista Yazılım",
+        "tercih_sirasi": 3,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1088,
+        "isim": "Melis Ergin",
+        "gpa": 1.95,
+        "yerlestigi_firma": "Vesium",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1107,
+        "isim": "Duygu Güler",
+        "gpa": 1.94,
+        "yerlestigi_firma": "Teracity Yazılım",
+        "tercih_sirasi": 5,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1128,
+        "isim": "Hatice Coşkun",
+        "gpa": 1.93,
+        "yerlestigi_firma": "EMKO Elektronik",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1045,
+        "isim": "Elif Duman",
+        "gpa": 1.92,
+        "yerlestigi_firma": "YERLESEMEDI",
+        "tercih_sirasi": 0,
+        "durum": "Bosta"
+    },
+    {
+        "ogrenci_id": 1118,
+        "isim": "Hasan Taş",
+        "gpa": 1.88,
+        "yerlestigi_firma": "Teracity Yazılım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1029,
+        "isim": "Cem Aksoy",
+        "gpa": 1.87,
+        "yerlestigi_firma": "İbraş Kauçuk",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1062,
+        "isim": "Ezgi Yaman",
+        "gpa": 1.85,
+        "yerlestigi_firma": "ADASTEC",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1036,
+        "isim": "İrem Kaya",
+        "gpa": 1.84,
+        "yerlestigi_firma": "EXİM TEKSTİL",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1116,
+        "isim": "Halil Koç",
+        "gpa": 1.78,
+        "yerlestigi_firma": "Vesium",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1021,
+        "isim": "Arda Parlak",
+        "gpa": 1.74,
+        "yerlestigi_firma": "ADASTEC",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1113,
+        "isim": "Fatma Önal",
+        "gpa": 1.73,
+        "yerlestigi_firma": "Diniz Donanım",
+        "tercih_sirasi": 1,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1130,
+        "isim": "Abdullah Öztürk",
+        "gpa": 1.66,
+        "yerlestigi_firma": "Borçelik",
+        "tercih_sirasi": 5,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1016,
+        "isim": "Esra Özkan",
+        "gpa": 1.64,
+        "yerlestigi_firma": "YERLESEMEDI",
+        "tercih_sirasi": 0,
+        "durum": "Bosta"
+    },
+    {
+        "ogrenci_id": 1019,
+        "isim": "Göktuğ Duran",
+        "gpa": 1.64,
+        "yerlestigi_firma": "YERLESEMEDI",
+        "tercih_sirasi": 0,
+        "durum": "Bosta"
+    },
+    {
+        "ogrenci_id": 1090,
+        "isim": "Yasemin Toprak",
+        "gpa": 1.62,
+        "yerlestigi_firma": "BODO",
+        "tercih_sirasi": 3,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1007,
+        "isim": "Duygu Tezel",
+        "gpa": 1.61,
+        "yerlestigi_firma": "Skyfood Gıda",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1025,
+        "isim": "Okan Öztürk",
+        "gpa": 1.6,
+        "yerlestigi_firma": "Eruslu Tekstil",
+        "tercih_sirasi": 5,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1034,
+        "isim": "Şerife Gül",
+        "gpa": 1.6,
+        "yerlestigi_firma": "İbraş Kauçuk",
+        "tercih_sirasi": 4,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1083,
+        "isim": "Salih Kılıç",
+        "gpa": 1.58,
+        "yerlestigi_firma": "YERLESEMEDI",
+        "tercih_sirasi": 0,
+        "durum": "Bosta"
+    },
+    {
+        "ogrenci_id": 1056,
+        "isim": "İsmail Parlak",
+        "gpa": 1.54,
+        "yerlestigi_firma": "EXİM TEKSTİL",
+        "tercih_sirasi": 2,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1111,
+        "isim": "Abdullah Aydın",
+        "gpa": 1.53,
+        "yerlestigi_firma": "YERLESEMEDI",
+        "tercih_sirasi": 0,
+        "durum": "Bosta"
+    },
+    {
+        "ogrenci_id": 1004,
+        "isim": "Koray Parlak",
+        "gpa": 1.52,
+        "yerlestigi_firma": "BODO",
+        "tercih_sirasi": 3,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1070,
+        "isim": "Alp Taş",
+        "gpa": 1.52,
+        "yerlestigi_firma": "Vesium",
+        "tercih_sirasi": 5,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1089,
+        "isim": "Ömer Turan",
+        "gpa": 1.52,
+        "yerlestigi_firma": "YERLESEMEDI",
+        "tercih_sirasi": 0,
+        "durum": "Bosta"
+    },
+    {
+        "ogrenci_id": 1013,
+        "isim": "Duygu Yılmaz",
+        "gpa": 1.5,
+        "yerlestigi_firma": "Vesium",
+        "tercih_sirasi": 4,
+        "durum": "Tercihine Yerlesti"
+    },
+    {
+        "ogrenci_id": 1020,
+        "isim": "Esra Uslu",
+        "gpa": 1.5,
+        "yerlestigi_firma": "YERLESEMEDI",
+        "tercih_sirasi": 0,
+        "durum": "Bosta"
+    }
+]

@@ -1,0 +1,1562 @@
+[
+    {
+        "id": 1001,
+        "name": "Pelin Özdemir",
+        "gpa": 3.11,
+        "preferences": [
+            "Rudolf Duraner",
+            "GÖRSENTAM",
+            "Şahince Otomotiv",
+            "Diniz Donanım",
+            "Trendyol"
+        ]
+    },
+    {
+        "id": 1002,
+        "name": "Berkay Yıldız",
+        "gpa": 3.02,
+        "preferences": [
+            "CITS Bilişim",
+            "Virgasol Bilişim",
+            "İnvio Bilişim",
+            "Nette",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1003,
+        "name": "Efe Korkut",
+        "gpa": 3.17,
+        "preferences": [
+            "Rabek Tekstil",
+            "Kentkart Teknoloji",
+            "Harput Tekstil",
+            "TOFAŞ",
+            "ADASTEC"
+        ]
+    },
+    {
+        "id": 1004,
+        "name": "Koray Parlak",
+        "gpa": 1.52,
+        "preferences": [
+            "Eruslu Tekstil",
+            "Sorsware Bilişim",
+            "BODO",
+            "Rudolf Duraner",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1005,
+        "name": "Hülya Uçar",
+        "gpa": 2.59,
+        "preferences": [
+            "PENTECH Bilişim",
+            "Rudolf Duraner",
+            "TOFAŞ",
+            "Skyfood Gıda",
+            "Kentkart Teknoloji"
+        ]
+    },
+    {
+        "id": 1006,
+        "name": "Abdullah Taş",
+        "gpa": 2.39,
+        "preferences": [
+            "ADASTEC",
+            "Güncel Yazılım",
+            "Rudolf Duraner",
+            "Rabek Tekstil",
+            "BODO"
+        ]
+    },
+    {
+        "id": 1007,
+        "name": "Duygu Tezel",
+        "gpa": 1.61,
+        "preferences": [
+            "Wiome Elektronik",
+            "Skyfood Gıda",
+            "Şahince Otomotiv",
+            "MOBGE Yazılım",
+            "PENTECH Bilişim"
+        ]
+    },
+    {
+        "id": 1008,
+        "name": "Koray Yıldız",
+        "gpa": 2.2,
+        "preferences": [
+            "Wiome Elektronik",
+            "Sorsware Bilişim",
+            "PENTECH Bilişim",
+            "Eruslu Tekstil",
+            "Teracity Yazılım"
+        ]
+    },
+    {
+        "id": 1009,
+        "name": "Hatice Aktaş",
+        "gpa": 2.61,
+        "preferences": [
+            "NESTLE",
+            "Dista Yazılım",
+            "Skyfood Gıda",
+            "Şahince Otomotiv",
+            "EXİM TEKSTİL"
+        ]
+    },
+    {
+        "id": 1010,
+        "name": "Fatma Aydın",
+        "gpa": 2.55,
+        "preferences": [
+            "Nette",
+            "BEYÇELİK",
+            "Kentkart Teknoloji",
+            "Şahince Otomotiv",
+            "Skyfood Gıda"
+        ]
+    },
+    {
+        "id": 1011,
+        "name": "Ramazan Arslan",
+        "gpa": 3.72,
+        "preferences": [
+            "Skyfood Gıda",
+            "TOFAŞ",
+            "CITS Bilişim",
+            "Eruslu Tekstil",
+            "Doğuş"
+        ]
+    },
+    {
+        "id": 1012,
+        "name": "Ezgi Kara",
+        "gpa": 3.65,
+        "preferences": [
+            "Getir",
+            "Teracity Yazılım",
+            "Ottomotive Mühendislik",
+            "BEYÇELİK",
+            "BİLGE Teknoloji"
+        ]
+    },
+    {
+        "id": 1013,
+        "name": "Duygu Yılmaz",
+        "gpa": 1.5,
+        "preferences": [
+            "Eruslu Tekstil",
+            "Güncel Yazılım",
+            "Wiome Elektronik",
+            "Vesium",
+            "Virgasol Bilişim"
+        ]
+    },
+    {
+        "id": 1014,
+        "name": "Berk Korkmaz",
+        "gpa": 3.1,
+        "preferences": [
+            "BODO",
+            "Getir",
+            "Virgasol Bilişim",
+            "Ottomotive Mühendislik",
+            "Skyfood Gıda"
+        ]
+    },
+    {
+        "id": 1015,
+        "name": "Berkay Korkmaz",
+        "gpa": 2.43,
+        "preferences": [
+            "ADASTEC",
+            "MOBGE Yazılım",
+            "Sorsware Bilişim",
+            "İnvio Bilişim",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1016,
+        "name": "Esra Özkan",
+        "gpa": 1.64,
+        "preferences": [
+            "EMKO Elektronik",
+            "ADASTEC",
+            "Ottomotive Mühendislik",
+            "Rabek Tekstil",
+            "Şahince Otomotiv"
+        ]
+    },
+    {
+        "id": 1017,
+        "name": "Ramazan Tekin",
+        "gpa": 1.95,
+        "preferences": [
+            "Kentkart Teknoloji",
+            "Virgasol Bilişim",
+            "Dista Yazılım",
+            "Rabek Tekstil",
+            "Teracity Yazılım"
+        ]
+    },
+    {
+        "id": 1018,
+        "name": "Özlem Karataş",
+        "gpa": 3.83,
+        "preferences": [
+            "TOFAŞ",
+            "Sorsware Bilişim",
+            "Diniz Donanım",
+            "Doğuş",
+            "BİLGE Teknoloji"
+        ]
+    },
+    {
+        "id": 1019,
+        "name": "Göktuğ Duran",
+        "gpa": 1.64,
+        "preferences": [
+            "Şahince Otomotiv",
+            "Virgasol Bilişim",
+            "Güncel Yazılım",
+            "Diniz Donanım",
+            "Sorsware Bilişim"
+        ]
+    },
+    {
+        "id": 1020,
+        "name": "Esra Uslu",
+        "gpa": 1.5,
+        "preferences": [
+            "Diniz Donanım",
+            "ECS Elektrik",
+            "Rabek Tekstil",
+            "Rudolf Duraner",
+            "Wiome Elektronik"
+        ]
+    },
+    {
+        "id": 1021,
+        "name": "Arda Parlak",
+        "gpa": 1.74,
+        "preferences": [
+            "ADASTEC",
+            "Virgasol Bilişim",
+            "Vesium",
+            "MOBGE Yazılım",
+            "Orcas Otomotiv"
+        ]
+    },
+    {
+        "id": 1022,
+        "name": "Fatma Uysal",
+        "gpa": 2.44,
+        "preferences": [
+            "MOBGE Yazılım",
+            "Skyfood Gıda",
+            "Rudolf Duraner",
+            "Orcas Otomotiv",
+            "Rabek Tekstil"
+        ]
+    },
+    {
+        "id": 1023,
+        "name": "Ahmet Esen",
+        "gpa": 2.3,
+        "preferences": [
+            "EMKO Elektronik",
+            "MOBGE Yazılım",
+            "Vesium",
+            "Teracity Yazılım",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1024,
+        "name": "Hülya Kılıç",
+        "gpa": 2.17,
+        "preferences": [
+            "Rabek Tekstil",
+            "Sorsware Bilişim",
+            "Nette",
+            "Orcas Otomotiv",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1025,
+        "name": "Okan Öztürk",
+        "gpa": 1.6,
+        "preferences": [
+            "ADASTEC",
+            "İnvio Bilişim",
+            "Rabek Tekstil",
+            "Virgasol Bilişim",
+            "Eruslu Tekstil"
+        ]
+    },
+    {
+        "id": 1026,
+        "name": "Berkay Özçelik",
+        "gpa": 3.14,
+        "preferences": [
+            "Harput Tekstil",
+            "Orcas Otomotiv",
+            "Rudolf Duraner",
+            "Rabek Tekstil",
+            "TOFAŞ"
+        ]
+    },
+    {
+        "id": 1027,
+        "name": "Abdullah Kılıç",
+        "gpa": 2.38,
+        "preferences": [
+            "Rabek Tekstil",
+            "Harput Tekstil",
+            "Skyfood Gıda",
+            "Şahince Otomotiv",
+            "Orcas Otomotiv"
+        ]
+    },
+    {
+        "id": 1028,
+        "name": "Batuhan Köse",
+        "gpa": 3.47,
+        "preferences": [
+            "Şahince Otomotiv",
+            "MOBGE Yazılım",
+            "ORTEM Elektronik",
+            "Virgasol Bilişim",
+            "HepsiBurada"
+        ]
+    },
+    {
+        "id": 1029,
+        "name": "Cem Aksoy",
+        "gpa": 1.87,
+        "preferences": [
+            "Sorsware Bilişim",
+            "İbraş Kauçuk",
+            "Vesium",
+            "PENTECH Bilişim",
+            "Rabek Tekstil"
+        ]
+    },
+    {
+        "id": 1030,
+        "name": "Mustafa Kaplan",
+        "gpa": 3.52,
+        "preferences": [
+            "Virgasol Bilişim",
+            "Nette",
+            "BEYÇELİK",
+            "BİLGE Teknoloji",
+            "CITS Bilişim"
+        ]
+    },
+    {
+        "id": 1031,
+        "name": "Serkan Baş",
+        "gpa": 3.93,
+        "preferences": [
+            "BEYÇELİK",
+            "Teracity Yazılım",
+            "Borçelik",
+            "Datayaz Bilişim",
+            "CITS Bilişim"
+        ]
+    },
+    {
+        "id": 1032,
+        "name": "Sultan Köse",
+        "gpa": 2.2,
+        "preferences": [
+            "Şahince Otomotiv",
+            "Skyfood Gıda",
+            "İbraş Kauçuk",
+            "Vesium",
+            "Kentkart Teknoloji"
+        ]
+    },
+    {
+        "id": 1033,
+        "name": "Tolga Türk",
+        "gpa": 3.49,
+        "preferences": [
+            "ORTEM Elektronik",
+            "Skyfood Gıda",
+            "CITS Bilişim",
+            "Kentkart Teknoloji",
+            "Teracity Yazılım"
+        ]
+    },
+    {
+        "id": 1034,
+        "name": "Şerife Gül",
+        "gpa": 1.6,
+        "preferences": [
+            "Wiome Elektronik",
+            "ADASTEC",
+            "Teracity Yazılım",
+            "İbraş Kauçuk",
+            "Nette"
+        ]
+    },
+    {
+        "id": 1035,
+        "name": "Buğra Yıldırım",
+        "gpa": 3.19,
+        "preferences": [
+            "Rabek Tekstil",
+            "Sorsware Bilişim",
+            "PENTECH Bilişim",
+            "Harput Tekstil",
+            "NESTLE"
+        ]
+    },
+    {
+        "id": 1036,
+        "name": "İrem Kaya",
+        "gpa": 1.84,
+        "preferences": [
+            "Rabek Tekstil",
+            "EXİM TEKSTİL",
+            "Virgasol Bilişim",
+            "İnvio Bilişim",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1037,
+        "name": "Duygu Bayram",
+        "gpa": 2.42,
+        "preferences": [
+            "Diniz Donanım",
+            "Rabek Tekstil",
+            "Harput Tekstil",
+            "Wiome Elektronik",
+            "Teracity Yazılım"
+        ]
+    },
+    {
+        "id": 1038,
+        "name": "Ali Yıldız",
+        "gpa": 3.48,
+        "preferences": [
+            "Datayaz Bilişim",
+            "MOBGE Yazılım",
+            "BODO",
+            "Virgasol Bilişim",
+            "ADASTEC"
+        ]
+    },
+    {
+        "id": 1039,
+        "name": "Serkan Kocaman",
+        "gpa": 3.18,
+        "preferences": [
+            "GÖRSENTAM",
+            "Sorsware Bilişim",
+            "Virgasol Bilişim",
+            "Getir",
+            "ORTEM Elektronik"
+        ]
+    },
+    {
+        "id": 1040,
+        "name": "Havva Aktaş",
+        "gpa": 3.18,
+        "preferences": [
+            "Kentkart Teknoloji",
+            "Diniz Donanım",
+            "BEYÇELİK",
+            "Skyfood Gıda",
+            "ADASTEC"
+        ]
+    },
+    {
+        "id": 1041,
+        "name": "Buğra Çalışkan",
+        "gpa": 3.63,
+        "preferences": [
+            "Doğuş",
+            "MOBGE Yazılım",
+            "Trendyol",
+            "HepsiBurada",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1042,
+        "name": "Barış Doğan",
+        "gpa": 3.99,
+        "preferences": [
+            "Virgasol Bilişim",
+            "TOFAŞ",
+            "Ottomotive Mühendislik",
+            "BİLGE Teknoloji",
+            "Getir"
+        ]
+    },
+    {
+        "id": 1043,
+        "name": "Yusuf Yüksel",
+        "gpa": 3.54,
+        "preferences": [
+            "BİLGE Teknoloji",
+            "EXİM TEKSTİL",
+            "Trendyol",
+            "Skyfood Gıda",
+            "HepsiBurada"
+        ]
+    },
+    {
+        "id": 1044,
+        "name": "Tolga Şahin",
+        "gpa": 2.24,
+        "preferences": [
+            "Güncel Yazılım",
+            "Rudolf Duraner",
+            "Virgasol Bilişim",
+            "Dista Yazılım",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1045,
+        "name": "Elif Duman",
+        "gpa": 1.92,
+        "preferences": [
+            "Dista Yazılım",
+            "Virgasol Bilişim",
+            "Rudolf Duraner",
+            "Wiome Elektronik",
+            "EMKO Elektronik"
+        ]
+    },
+    {
+        "id": 1046,
+        "name": "Berkay Aktaş",
+        "gpa": 3.25,
+        "preferences": [
+            "Kentkart Teknoloji",
+            "BODO",
+            "Skyfood Gıda",
+            "Doğuş",
+            "Virgasol Bilişim"
+        ]
+    },
+    {
+        "id": 1047,
+        "name": "Mert Çakmak",
+        "gpa": 3.41,
+        "preferences": [
+            "ORTEM Elektronik",
+            "Rudolf Duraner",
+            "EMKO Elektronik",
+            "CITS Bilişim",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1048,
+        "name": "Alper Uysal",
+        "gpa": 2.6,
+        "preferences": [
+            "Rudolf Duraner",
+            "Vesium",
+            "HepsiBurada",
+            "Kentkart Teknoloji",
+            "MOBGE Yazılım"
+        ]
+    },
+    {
+        "id": 1049,
+        "name": "Berk Gül",
+        "gpa": 3.93,
+        "preferences": [
+            "PENTECH Bilişim",
+            "Getir",
+            "Teracity Yazılım",
+            "NESTLE",
+            "HepsiBurada"
+        ]
+    },
+    {
+        "id": 1050,
+        "name": "Burak Polat",
+        "gpa": 3.0,
+        "preferences": [
+            "MOBGE Yazılım",
+            "BEYÇELİK",
+            "Wiome Elektronik",
+            "PENTECH Bilişim",
+            "Rabek Tekstil"
+        ]
+    },
+    {
+        "id": 1051,
+        "name": "Gökhan Keskin",
+        "gpa": 2.71,
+        "preferences": [
+            "Nette",
+            "BODO",
+            "Teracity Yazılım",
+            "Virgasol Bilişim",
+            "CITS Bilişim"
+        ]
+    },
+    {
+        "id": 1052,
+        "name": "Serkan Korkmaz",
+        "gpa": 2.65,
+        "preferences": [
+            "Doğuş",
+            "Orcas Otomotiv",
+            "ADASTEC",
+            "Teracity Yazılım",
+            "Ottomotive Mühendislik"
+        ]
+    },
+    {
+        "id": 1053,
+        "name": "Alp Yalçın",
+        "gpa": 2.73,
+        "preferences": [
+            "MOBGE Yazılım",
+            "ADASTEC",
+            "Wiome Elektronik",
+            "ORTEM Elektronik",
+            "BEYÇELİK"
+        ]
+    },
+    {
+        "id": 1054,
+        "name": "Hülya Yüksel",
+        "gpa": 3.06,
+        "preferences": [
+            "Ottomotive Mühendislik",
+            "ADASTEC",
+            "Orcas Otomotiv",
+            "Vesium",
+            "TOFAŞ"
+        ]
+    },
+    {
+        "id": 1055,
+        "name": "Ayşe Karataş",
+        "gpa": 3.38,
+        "preferences": [
+            "Şahince Otomotiv",
+            "Orcas Otomotiv",
+            "Skyfood Gıda",
+            "Datayaz Bilişim",
+            "GÖRSENTAM"
+        ]
+    },
+    {
+        "id": 1056,
+        "name": "İsmail Parlak",
+        "gpa": 1.54,
+        "preferences": [
+            "ADASTEC",
+            "EXİM TEKSTİL",
+            "Kentkart Teknoloji",
+            "Virgasol Bilişim",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1057,
+        "name": "Kağan Sönmez",
+        "gpa": 3.78,
+        "preferences": [
+            "GÖRSENTAM",
+            "Şahince Otomotiv",
+            "Trendyol",
+            "BEYÇELİK",
+            "Doğuş"
+        ]
+    },
+    {
+        "id": 1058,
+        "name": "Ayşe Çakır",
+        "gpa": 3.24,
+        "preferences": [
+            "Wiome Elektronik",
+            "Sorsware Bilişim",
+            "Nette",
+            "Kentkart Teknoloji",
+            "Doğuş"
+        ]
+    },
+    {
+        "id": 1059,
+        "name": "Pelin Türk",
+        "gpa": 3.52,
+        "preferences": [
+            "Trendyol",
+            "Skyfood Gıda",
+            "BEYÇELİK",
+            "TOFAŞ",
+            "Borçelik"
+        ]
+    },
+    {
+        "id": 1060,
+        "name": "Ayşe Polat",
+        "gpa": 3.77,
+        "preferences": [
+            "Harput Tekstil",
+            "HepsiBurada",
+            "Doğuş",
+            "Skyfood Gıda",
+            "BİLGE Teknoloji"
+        ]
+    },
+    {
+        "id": 1061,
+        "name": "Erkan Mutlu",
+        "gpa": 2.69,
+        "preferences": [
+            "İnvio Bilişim",
+            "Skyfood Gıda",
+            "Rabek Tekstil",
+            "HepsiBurada",
+            "Kentkart Teknoloji"
+        ]
+    },
+    {
+        "id": 1062,
+        "name": "Ezgi Yaman",
+        "gpa": 1.85,
+        "preferences": [
+            "ADASTEC",
+            "Rudolf Duraner",
+            "GÖRSENTAM",
+            "Sorsware Bilişim",
+            "PENTECH Bilişim"
+        ]
+    },
+    {
+        "id": 1063,
+        "name": "Emine Şeker",
+        "gpa": 3.94,
+        "preferences": [
+            "Getir",
+            "Datayaz Bilişim",
+            "BEYÇELİK",
+            "İbraş Kauçuk",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1064,
+        "name": "Mert Şahin",
+        "gpa": 1.97,
+        "preferences": [
+            "Wiome Elektronik",
+            "Eruslu Tekstil",
+            "ECS Elektrik",
+            "Rabek Tekstil",
+            "Virgasol Bilişim"
+        ]
+    },
+    {
+        "id": 1065,
+        "name": "Hacer Kılıç",
+        "gpa": 2.79,
+        "preferences": [
+            "EXİM TEKSTİL",
+            "Rabek Tekstil",
+            "NESTLE",
+            "BODO",
+            "ADASTEC"
+        ]
+    },
+    {
+        "id": 1066,
+        "name": "Ramazan Uysal",
+        "gpa": 3.68,
+        "preferences": [
+            "CITS Bilişim",
+            "Getir",
+            "ADASTEC",
+            "Kentkart Teknoloji",
+            "HepsiBurada"
+        ]
+    },
+    {
+        "id": 1067,
+        "name": "Ayşe Güneş",
+        "gpa": 2.1,
+        "preferences": [
+            "Teracity Yazılım",
+            "Virgasol Bilişim",
+            "PENTECH Bilişim",
+            "Kentkart Teknoloji",
+            "Sorsware Bilişim"
+        ]
+    },
+    {
+        "id": 1068,
+        "name": "Burak Karataş",
+        "gpa": 2.29,
+        "preferences": [
+            "Rudolf Duraner",
+            "Wiome Elektronik",
+            "Sorsware Bilişim",
+            "İnvio Bilişim",
+            "GÖRSENTAM"
+        ]
+    },
+    {
+        "id": 1069,
+        "name": "Zeliha Bilgin",
+        "gpa": 2.54,
+        "preferences": [
+            "Virgasol Bilişim",
+            "PENTECH Bilişim",
+            "Skyfood Gıda",
+            "Harput Tekstil",
+            "CITS Bilişim"
+        ]
+    },
+    {
+        "id": 1070,
+        "name": "Alp Taş",
+        "gpa": 1.52,
+        "preferences": [
+            "İnvio Bilişim",
+            "Güncel Yazılım",
+            "Rudolf Duraner",
+            "Virgasol Bilişim",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1071,
+        "name": "Emine Şimşek",
+        "gpa": 3.34,
+        "preferences": [
+            "EMKO Elektronik",
+            "Skyfood Gıda",
+            "Doğuş",
+            "İbraş Kauçuk",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1072,
+        "name": "Hüseyin Yüksel",
+        "gpa": 3.64,
+        "preferences": [
+            "BEYÇELİK",
+            "NESTLE",
+            "CITS Bilişim",
+            "Borçelik",
+            "Wiome Elektronik"
+        ]
+    },
+    {
+        "id": 1073,
+        "name": "Emine Baş",
+        "gpa": 2.9,
+        "preferences": [
+            "Sorsware Bilişim",
+            "Diniz Donanım",
+            "BEYÇELİK",
+            "Güncel Yazılım",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1074,
+        "name": "Hülya Uslu",
+        "gpa": 3.51,
+        "preferences": [
+            "Getir",
+            "İnvio Bilişim",
+            "Rudolf Duraner",
+            "BEYÇELİK",
+            "TOFAŞ"
+        ]
+    },
+    {
+        "id": 1075,
+        "name": "Hatice Turan",
+        "gpa": 3.56,
+        "preferences": [
+            "Sorsware Bilişim",
+            "NESTLE",
+            "CITS Bilişim",
+            "HepsiBurada",
+            "Nette"
+        ]
+    },
+    {
+        "id": 1076,
+        "name": "İsmail Çalışkan",
+        "gpa": 1.97,
+        "preferences": [
+            "Virgasol Bilişim",
+            "Harput Tekstil",
+            "ECS Elektrik",
+            "Wiome Elektronik",
+            "Rabek Tekstil"
+        ]
+    },
+    {
+        "id": 1077,
+        "name": "Göktuğ Bulut",
+        "gpa": 2.39,
+        "preferences": [
+            "Güncel Yazılım",
+            "ADASTEC",
+            "Şahince Otomotiv",
+            "Rabek Tekstil",
+            "GÖRSENTAM"
+        ]
+    },
+    {
+        "id": 1078,
+        "name": "Bora Türk",
+        "gpa": 2.0,
+        "preferences": [
+            "Ottomotive Mühendislik",
+            "İnvio Bilişim",
+            "Teracity Yazılım",
+            "Vesium",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1079,
+        "name": "Bora Yavuz",
+        "gpa": 3.16,
+        "preferences": [
+            "NESTLE",
+            "Diniz Donanım",
+            "Teracity Yazılım",
+            "Virgasol Bilişim",
+            "İbraş Kauçuk"
+        ]
+    },
+    {
+        "id": 1080,
+        "name": "Mustafa Mutlu",
+        "gpa": 2.48,
+        "preferences": [
+            "Virgasol Bilişim",
+            "Wiome Elektronik",
+            "Dista Yazılım",
+            "ORTEM Elektronik",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1081,
+        "name": "Erkan Aktaş",
+        "gpa": 2.64,
+        "preferences": [
+            "MOBGE Yazılım",
+            "Wiome Elektronik",
+            "ADASTEC",
+            "BEYÇELİK",
+            "Kentkart Teknoloji"
+        ]
+    },
+    {
+        "id": 1082,
+        "name": "Buğra Bilgin",
+        "gpa": 3.05,
+        "preferences": [
+            "Harput Tekstil",
+            "Vesium",
+            "GÖRSENTAM",
+            "Rudolf Duraner",
+            "Doğuş"
+        ]
+    },
+    {
+        "id": 1083,
+        "name": "Salih Kılıç",
+        "gpa": 1.58,
+        "preferences": [
+            "Skyfood Gıda",
+            "Wiome Elektronik",
+            "EMKO Elektronik",
+            "Kentkart Teknoloji",
+            "Teracity Yazılım"
+        ]
+    },
+    {
+        "id": 1084,
+        "name": "Ali Şimşek",
+        "gpa": 3.24,
+        "preferences": [
+            "Virgasol Bilişim",
+            "Nette",
+            "HepsiBurada",
+            "BODO",
+            "Şahince Otomotiv"
+        ]
+    },
+    {
+        "id": 1085,
+        "name": "İsmail Ateş",
+        "gpa": 3.71,
+        "preferences": [
+            "HepsiBurada",
+            "Skyfood Gıda",
+            "ECS Elektrik",
+            "Getir",
+            "Trendyol"
+        ]
+    },
+    {
+        "id": 1086,
+        "name": "Barış Kılıç",
+        "gpa": 3.99,
+        "preferences": [
+            "HepsiBurada",
+            "Şahince Otomotiv",
+            "Doğuş",
+            "Ottomotive Mühendislik",
+            "Datayaz Bilişim"
+        ]
+    },
+    {
+        "id": 1087,
+        "name": "Melis Şimşek",
+        "gpa": 2.22,
+        "preferences": [
+            "ADASTEC",
+            "Sorsware Bilişim",
+            "MOBGE Yazılım",
+            "Wiome Elektronik",
+            "Güncel Yazılım"
+        ]
+    },
+    {
+        "id": 1088,
+        "name": "Melis Ergin",
+        "gpa": 1.95,
+        "preferences": [
+            "Vesium",
+            "Rudolf Duraner",
+            "Şahince Otomotiv",
+            "Diniz Donanım",
+            "Güncel Yazılım"
+        ]
+    },
+    {
+        "id": 1089,
+        "name": "Ömer Turan",
+        "gpa": 1.52,
+        "preferences": [
+            "Teracity Yazılım",
+            "Nette",
+            "Şahince Otomotiv",
+            "Rudolf Duraner",
+            "Dista Yazılım"
+        ]
+    },
+    {
+        "id": 1090,
+        "name": "Yasemin Toprak",
+        "gpa": 1.62,
+        "preferences": [
+            "Wiome Elektronik",
+            "ADASTEC",
+            "BODO",
+            "Skyfood Gıda",
+            "İbraş Kauçuk"
+        ]
+    },
+    {
+        "id": 1091,
+        "name": "Hüseyin Baş",
+        "gpa": 2.51,
+        "preferences": [
+            "Getir",
+            "Sorsware Bilişim",
+            "Dista Yazılım",
+            "Ottomotive Mühendislik",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1092,
+        "name": "Buğra Çakmak",
+        "gpa": 2.18,
+        "preferences": [
+            "Ottomotive Mühendislik",
+            "Şahince Otomotiv",
+            "Güncel Yazılım",
+            "Virgasol Bilişim",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1093,
+        "name": "Sultan Çam",
+        "gpa": 1.98,
+        "preferences": [
+            "Skyfood Gıda",
+            "ORTEM Elektronik",
+            "Rudolf Duraner",
+            "Şahince Otomotiv",
+            "Diniz Donanım"
+        ]
+    },
+    {
+        "id": 1094,
+        "name": "Salih Uslu",
+        "gpa": 2.92,
+        "preferences": [
+            "PENTECH Bilişim",
+            "ADASTEC",
+            "Skyfood Gıda",
+            "BİLGE Teknoloji",
+            "EXİM TEKSTİL"
+        ]
+    },
+    {
+        "id": 1095,
+        "name": "Simge Özçelik",
+        "gpa": 3.46,
+        "preferences": [
+            "Wiome Elektronik",
+            "Eruslu Tekstil",
+            "ADASTEC",
+            "GÖRSENTAM",
+            "TOFAŞ"
+        ]
+    },
+    {
+        "id": 1096,
+        "name": "Bora Uslu",
+        "gpa": 3.34,
+        "preferences": [
+            "GÖRSENTAM",
+            "Virgasol Bilişim",
+            "Sorsware Bilişim",
+            "TOFAŞ",
+            "ECS Elektrik"
+        ]
+    },
+    {
+        "id": 1097,
+        "name": "Şerife Avcı",
+        "gpa": 3.61,
+        "preferences": [
+            "Dista Yazılım",
+            "Getir",
+            "Datayaz Bilişim",
+            "HepsiBurada",
+            "ADASTEC"
+        ]
+    },
+    {
+        "id": 1098,
+        "name": "Arda Tezel",
+        "gpa": 2.85,
+        "preferences": [
+            "Virgasol Bilişim",
+            "Skyfood Gıda",
+            "Güncel Yazılım",
+            "Kentkart Teknoloji",
+            "BEYÇELİK"
+        ]
+    },
+    {
+        "id": 1099,
+        "name": "Tolga Avcı",
+        "gpa": 3.11,
+        "preferences": [
+            "Güncel Yazılım",
+            "BİLGE Teknoloji",
+            "Orcas Otomotiv",
+            "Teracity Yazılım",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1100,
+        "name": "Kemal Şahin",
+        "gpa": 2.72,
+        "preferences": [
+            "GÖRSENTAM",
+            "Nette",
+            "Wiome Elektronik",
+            "Virgasol Bilişim",
+            "TOFAŞ"
+        ]
+    },
+    {
+        "id": 1101,
+        "name": "Ramazan Korkmaz",
+        "gpa": 2.92,
+        "preferences": [
+            "İbraş Kauçuk",
+            "ECS Elektrik",
+            "Doğuş",
+            "Sorsware Bilişim",
+            "Skyfood Gıda"
+        ]
+    },
+    {
+        "id": 1102,
+        "name": "Damla Ünal",
+        "gpa": 2.83,
+        "preferences": [
+            "Trendyol",
+            "Şahince Otomotiv",
+            "PENTECH Bilişim",
+            "Rudolf Duraner",
+            "Nette"
+        ]
+    },
+    {
+        "id": 1103,
+        "name": "Ramazan Güneş",
+        "gpa": 2.4,
+        "preferences": [
+            "ECS Elektrik",
+            "Wiome Elektronik",
+            "Rudolf Duraner",
+            "Vesium",
+            "EMKO Elektronik"
+        ]
+    },
+    {
+        "id": 1104,
+        "name": "Hasan Gedik",
+        "gpa": 2.9,
+        "preferences": [
+            "Wiome Elektronik",
+            "Virgasol Bilişim",
+            "Nette",
+            "HepsiBurada",
+            "Harput Tekstil"
+        ]
+    },
+    {
+        "id": 1105,
+        "name": "Halil Bulut",
+        "gpa": 2.68,
+        "preferences": [
+            "Nette",
+            "Teracity Yazılım",
+            "Vesium",
+            "BEYÇELİK",
+            "PENTECH Bilişim"
+        ]
+    },
+    {
+        "id": 1106,
+        "name": "Havva Gedik",
+        "gpa": 3.11,
+        "preferences": [
+            "ECS Elektrik",
+            "Vesium",
+            "Sorsware Bilişim",
+            "EMKO Elektronik",
+            "CITS Bilişim"
+        ]
+    },
+    {
+        "id": 1107,
+        "name": "Duygu Güler",
+        "gpa": 1.94,
+        "preferences": [
+            "ECS Elektrik",
+            "ORTEM Elektronik",
+            "Şahince Otomotiv",
+            "Wiome Elektronik",
+            "Teracity Yazılım"
+        ]
+    },
+    {
+        "id": 1108,
+        "name": "Özlem Erdoğan",
+        "gpa": 3.85,
+        "preferences": [
+            "Datayaz Bilişim",
+            "Virgasol Bilişim",
+            "Borçelik",
+            "Doğuş",
+            "NESTLE"
+        ]
+    },
+    {
+        "id": 1109,
+        "name": "Mustafa Yaman",
+        "gpa": 3.17,
+        "preferences": [
+            "MOBGE Yazılım",
+            "Teracity Yazılım",
+            "Güncel Yazılım",
+            "Doğuş",
+            "Virgasol Bilişim"
+        ]
+    },
+    {
+        "id": 1110,
+        "name": "Ahmet Baş",
+        "gpa": 3.72,
+        "preferences": [
+            "TOFAŞ",
+            "MOBGE Yazılım",
+            "Datayaz Bilişim",
+            "HepsiBurada",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1111,
+        "name": "Abdullah Aydın",
+        "gpa": 1.53,
+        "preferences": [
+            "İnvio Bilişim",
+            "Rabek Tekstil",
+            "Wiome Elektronik",
+            "MOBGE Yazılım",
+            "Rudolf Duraner"
+        ]
+    },
+    {
+        "id": 1112,
+        "name": "Özlem Avcı",
+        "gpa": 3.28,
+        "preferences": [
+            "Kentkart Teknoloji",
+            "Şahince Otomotiv",
+            "İbraş Kauçuk",
+            "BEYÇELİK",
+            "Sorsware Bilişim"
+        ]
+    },
+    {
+        "id": 1113,
+        "name": "Fatma Önal",
+        "gpa": 1.73,
+        "preferences": [
+            "Diniz Donanım",
+            "Virgasol Bilişim",
+            "Vesium",
+            "Ottomotive Mühendislik",
+            "Skyfood Gıda"
+        ]
+    },
+    {
+        "id": 1114,
+        "name": "Salih Köse",
+        "gpa": 2.42,
+        "preferences": [
+            "Şahince Otomotiv",
+            "EXİM TEKSTİL",
+            "Wiome Elektronik",
+            "Diniz Donanım",
+            "Sorsware Bilişim"
+        ]
+    },
+    {
+        "id": 1115,
+        "name": "Havva Toprak",
+        "gpa": 3.26,
+        "preferences": [
+            "Teracity Yazılım",
+            "Vesium",
+            "Getir",
+            "Nette",
+            "ECS Elektrik"
+        ]
+    },
+    {
+        "id": 1116,
+        "name": "Halil Koç",
+        "gpa": 1.78,
+        "preferences": [
+            "Vesium",
+            "ECS Elektrik",
+            "PENTECH Bilişim",
+            "Skyfood Gıda",
+            "Sorsware Bilişim"
+        ]
+    },
+    {
+        "id": 1117,
+        "name": "Merve Demir",
+        "gpa": 3.56,
+        "preferences": [
+            "İnvio Bilişim",
+            "BİLGE Teknoloji",
+            "Getir",
+            "Trendyol",
+            "Wiome Elektronik"
+        ]
+    },
+    {
+        "id": 1118,
+        "name": "Hasan Taş",
+        "gpa": 1.88,
+        "preferences": [
+            "Teracity Yazılım",
+            "Wiome Elektronik",
+            "MOBGE Yazılım",
+            "Diniz Donanım",
+            "Rabek Tekstil"
+        ]
+    },
+    {
+        "id": 1119,
+        "name": "Umut Bilgin",
+        "gpa": 2.07,
+        "preferences": [
+            "Rudolf Duraner",
+            "Sorsware Bilişim",
+            "Wiome Elektronik",
+            "Orcas Otomotiv",
+            "MOBGE Yazılım"
+        ]
+    },
+    {
+        "id": 1120,
+        "name": "Ali Parlak",
+        "gpa": 3.74,
+        "preferences": [
+            "ORTEM Elektronik",
+            "Şahince Otomotiv",
+            "CITS Bilişim",
+            "NESTLE",
+            "TOFAŞ"
+        ]
+    },
+    {
+        "id": 1121,
+        "name": "Berk Coşkun",
+        "gpa": 3.44,
+        "preferences": [
+            "PENTECH Bilişim",
+            "Doğuş",
+            "Rudolf Duraner",
+            "İnvio Bilişim",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1122,
+        "name": "Hakan Taş",
+        "gpa": 2.8,
+        "preferences": [
+            "Teracity Yazılım",
+            "Virgasol Bilişim",
+            "Datayaz Bilişim",
+            "Nette",
+            "Harput Tekstil"
+        ]
+    },
+    {
+        "id": 1123,
+        "name": "Emine Aslan",
+        "gpa": 2.77,
+        "preferences": [
+            "Trendyol",
+            "Rabek Tekstil",
+            "MOBGE Yazılım",
+            "Dista Yazılım",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1124,
+        "name": "Berk Ceylan",
+        "gpa": 3.32,
+        "preferences": [
+            "NESTLE",
+            "Şahince Otomotiv",
+            "İnvio Bilişim",
+            "Güncel Yazılım",
+            "Vesium"
+        ]
+    },
+    {
+        "id": 1125,
+        "name": "Deniz Arslan",
+        "gpa": 2.58,
+        "preferences": [
+            "Eruslu Tekstil",
+            "Rudolf Duraner",
+            "ECS Elektrik",
+            "Doğuş",
+            "Wiome Elektronik"
+        ]
+    },
+    {
+        "id": 1126,
+        "name": "Buğra Avcı",
+        "gpa": 2.67,
+        "preferences": [
+            "Datayaz Bilişim",
+            "Nette",
+            "Skyfood Gıda",
+            "PENTECH Bilişim",
+            "Virgasol Bilişim"
+        ]
+    },
+    {
+        "id": 1127,
+        "name": "Şerife Duran",
+        "gpa": 2.57,
+        "preferences": [
+            "Sorsware Bilişim",
+            "BODO",
+            "GÖRSENTAM",
+            "Rabek Tekstil",
+            "CITS Bilişim"
+        ]
+    },
+    {
+        "id": 1128,
+        "name": "Hatice Coşkun",
+        "gpa": 1.93,
+        "preferences": [
+            "Sorsware Bilişim",
+            "EMKO Elektronik",
+            "Skyfood Gıda",
+            "Ottomotive Mühendislik",
+            "Şahince Otomotiv"
+        ]
+    },
+    {
+        "id": 1129,
+        "name": "Gökhan Yıldız",
+        "gpa": 3.5,
+        "preferences": [
+            "NESTLE",
+            "Trendyol",
+            "Harput Tekstil",
+            "Sorsware Bilişim",
+            "HepsiBurada"
+        ]
+    },
+    {
+        "id": 1130,
+        "name": "Abdullah Öztürk",
+        "gpa": 1.66,
+        "preferences": [
+            "ADASTEC",
+            "EMKO Elektronik",
+            "Rudolf Duraner",
+            "Rabek Tekstil",
+            "Borçelik"
+        ]
+    }
+]

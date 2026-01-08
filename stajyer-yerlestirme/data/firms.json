@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Doğuş",
+        "capacity": 2
+    },
+    {
+        "name": "BEYÇELİK",
+        "capacity": 2
+    },
+    {
+        "name": "Trendyol",
+        "capacity": 2
+    },
+    {
+        "name": "HepsiBurada",
+        "capacity": 2
+    },
+    {
+        "name": "Getir",
+        "capacity": 2
+    },
+    {
+        "name": "BİLGE Teknoloji",
+        "capacity": 2
+    },
+    {
+        "name": "NESTLE",
+        "capacity": 2
+    },
+    {
+        "name": "TOFAŞ",
+        "capacity": 2
+    },
+    {
+        "name": "CITS Bilişim",
+        "capacity": 2
+    },
+    {
+        "name": "Datayaz Bilişim",
+        "capacity": 2
+    },
+    {
+        "name": "Diniz Donanım",
+        "capacity": 3
+    },
+    {
+        "name": "Dista Yazılım",
+        "capacity": 3
+    },
+    {
+        "name": "Nette",
+        "capacity": 3
+    },
+    {
+        "name": "ECS Elektrik",
+        "capacity": 3
+    },
+    {
+        "name": "Borçelik",
+        "capacity": 3
+    },
+    {
+        "name": "EMKO Elektronik",
+        "capacity": 3
+    },
+    {
+        "name": "Eruslu Tekstil",
+        "capacity": 3
+    },
+    {
+        "name": "EXİM TEKSTİL",
+        "capacity": 3
+    },
+    {
+        "name": "GÖRSENTAM",
+        "capacity": 3
+    },
+    {
+        "name": "Güncel Yazılım",
+        "capacity": 3
+    },
+    {
+        "name": "Harput Tekstil",
+        "capacity": 3
+    },
+    {
+        "name": "İnvio Bilişim",
+        "capacity": 3
+    },
+    {
+        "name": "İbraş Kauçuk",
+        "capacity": 3
+    },
+    {
+        "name": "Kentkart Teknoloji",
+        "capacity": 3
+    },
+    {
+        "name": "MOBGE Yazılım",
+        "capacity": 3
+    },
+    {
+        "name": "BODO",
+        "capacity": 3
+    },
+    {
+        "name": "Orcas Otomotiv",
+        "capacity": 3
+    },
+    {
+        "name": "ORTEM Elektronik",
+        "capacity": 3
+    },
+    {
+        "name": "Ottomotive Mühendislik",
+        "capacity": 3
+    },
+    {
+        "name": "PENTECH Bilişim",
+        "capacity": 3
+    },
+    {
+        "name": "Rabek Tekstil",
+        "capacity": 5
+    },
+    {
+        "name": "Rudolf Duraner",
+        "capacity": 5
+    },
+    {
+        "name": "Sorsware Bilişim",
+        "capacity": 5
+    },
+    {
+        "name": "Şahince Otomotiv",
+        "capacity": 5
+    },
+    {
+        "name": "Teracity Yazılım",
+        "capacity": 5
+    },
+    {
+        "name": "Vesium",
+        "capacity": 5
+    },
+    {
+        "name": "Virgasol Bilişim",
+        "capacity": 5
+    },
+    {
+        "name": "Wiome Elektronik",
+        "capacity": 5
+    },
+    {
+        "name": "ADASTEC",
+        "capacity": 5
+    },
+    {
+        "name": "Skyfood Gıda",
+        "capacity": 5
+    }
+]
