@@ -1,0 +1,1 @@
+# stajyer-yerlestirme-simulasyonu
