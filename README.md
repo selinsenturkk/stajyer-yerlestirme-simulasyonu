@@ -73,11 +73,16 @@ Uygulama, kullanıcı dostu bir deneyim için **Python Tkinter** kütüphanesi i
 
 ## Ekran Görüntüleri
 
-![Gui](images/images1.png)
+<img src="images/images1.png" width="300">
+
 ---
-![VeriSeti](images/images2.png)
+
+<img src="images/images2.png" width="300">
+
 ---
-![Simulasyon](images/images3.png)
+
+<img src="images/images3.png" width="300">
+
 ---
 
 ## Takım Üyeleri
