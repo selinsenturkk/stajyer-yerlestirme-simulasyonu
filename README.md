@@ -73,15 +73,15 @@ Uygulama, kullanıcı dostu bir deneyim için **Python Tkinter** kütüphanesi i
 
 ## Ekran Görüntüleri
 
-<img src="images/images1.png" width="300">
+<img src="images/images1.png" width="400">
 
 ---
 
-<img src="images/images2.png" width="300">
+<img src="images/images2.png" width="400">
 
 ---
 
-<img src="images/images3.png" width="300">
+<img src="images/images3.png" width="400">
 
 ---
 
